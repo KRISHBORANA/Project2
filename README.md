@@ -1,4 +1,4 @@
-Project Overview
+# Project Overview
 
 This Python script leverages a Large Language Model (LLM) to analyze, visualize, and narrate insights from a dataset. The script performs the following steps:
 
@@ -12,7 +12,7 @@ README Generation: Produces a comprehensive README file containing the dataset s
 
 The goal of this project is to showcase the integration of machine learning, data visualization, and natural language processing (NLP) techniques to analyze datasets and present meaningful insights.
 
-Features
+# Features
 
 Dataset Analysis:
 
