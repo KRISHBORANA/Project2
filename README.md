@@ -14,21 +14,21 @@ The goal of this project is to showcase the integration of machine learning, dat
 
 # Features
 
-A Dataset Analysis:
+1 Dataset Analysis:
 
  Automatically detects file encoding for seamless data reading.
 
  Provides a summary of the dataset structure and contents.
 
-B Data Visualization:
+2 Data Visualization:
 
  Creates a correlation heatmap to highlight relationships among numerical features.
 
-C AI Insights:
+3 AI Insights:
 
  Utilizes an LLM (GPT-4o-mini) to generate textual insights based on dataset summaries and trends.
 
-D Comprehensive Report:
+4 Comprehensive Report:
 
  Automatically generates a structured README.md file containing:
 
